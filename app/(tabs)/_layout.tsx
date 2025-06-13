@@ -3,7 +3,7 @@ import { Image, Text, View } from 'react-native';
 
 import { icons } from '../../constants';
 
-const TabIcon = ({ icon, color, name, focused }:any) => { //the props type are not strictly defined here, but you can define them as needed
+const TabIcon = ({ icon, color, name, focused }:any) => {
   return (
     <View className='items-center justify-center gap-2 pt-6'>
       <Image
