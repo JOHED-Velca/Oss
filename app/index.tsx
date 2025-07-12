@@ -36,8 +36,8 @@ export default function App() {
 
           <View className="relative mt-5">
             <Text className="text-3xl text-white font-bold text-center">
-              Discover Endless Possibilities with {' '}
-              <Text className="text-secondary-200">Aora</Text>
+              Track your fighting journey with {' '}
+              <Text className="text-secondary-200">Oss</Text>
             </Text>
             <Image
               source={images.path}
@@ -47,7 +47,7 @@ export default function App() {
           </View>
 
           <Text className="text-sm font-pregular text-gray-100 mt-7 text-center">
-            Where creativity meets innovation: embark on a journey of limitless  exploration with Aora
+            From white belt to black belt: Track, improve, and Oss.
           </Text>
 
           <CustomButton
